@@ -14,8 +14,6 @@ This project does not directly interpret Mango source code. Instead `the compile
 
 Note that, for the time being, the intermediary format has no stability guarantees.
 
-https://mangocode.org/
-
 Status
 -------------------------------
 

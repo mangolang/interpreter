@@ -1,0 +1,11 @@
+[package]
+name = "mango_interpreter"
+description = "The Mango programming language interpreter (UNDER CONSTRUCTION)"
+version = "0.1.0"
+authors = ["Mark <mverleg.noreply@gmail.com>"]
+edition = "2018"
+homepage = "https://mangocode.org/"
+license = "Apache-2.0"
+publish = true
+
+[dependencies]
