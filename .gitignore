@@ -1,4 +1,3 @@
-Cargo.lock
 target/
 /local/
 *.iml
@@ -172,7 +171,6 @@ target/
 
 /target/
 **/*.rs.bk
-Cargo.lock
 
 /target/
 **/*.rs.bk
